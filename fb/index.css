@@ -1,0 +1,145 @@
+.header{
+    background: #3b5998;
+    width:100%;
+    height:80px;
+}
+body{
+    margin:0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 25px;
+    float: left;
+}
+
+.login{
+    width:50%;
+    float:left;
+    padding-top:6px;
+}
+.logotext{
+    color: #fff;
+    font-size: 44px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left:300px;
+    margin-left: 118px;
+}
+.loginlabel{
+  color:#fff;
+  font-size:11px;
+}
+.longincontrol{
+    margin-left: 170px;
+}
+.forgotten{
+    color:#fff;
+    text-decoration:none;
+    font-size:11px;
+    color:#97a4b5;
+}
+.button{
+    background-color:#4a66a4;
+    color:#fff;
+    cursor: pointer;
+}
+.button:hover{
+    background-color:#97a4b5;
+}
+.main-left{
+    width: 45%;
+    float: left;
+    padding-left: 113px;
+    padding-top: 40px;
+}
+.main-right{
+    width:45%;
+    float:left;
+
+}
+.mainbody{
+    background:#eceff5;
+    width:100%;
+    height:680px;
+}
+ .image{
+    width: 597px;
+    float:left;
+ }
+ .textfont{
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(33, 35, 109);
+ }
+ .para1{
+    font-size: 42px;
+    font-weight: bold;
+    float: left;
+    padding-left: 211px;
+ }
+ .para2{
+    font-size: 21px;
+    float: left;
+    padding-left: 214px;
+    padding-top:10px;
+ }
+
+ .table{
+    padding-left: 211px;
+ }
+ .text{
+    height: 30px;
+    font-size: 16px;
+    border-radius: 4px;
+ }
+ .bold{
+    margin-left: 213px;
+    width: 337px;
+    height: 30px;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 4px;
+ }
+ .bird{
+    margin-left: 212px;
+    font-size: 21px;
+
+ }
+ .birth{
+    margin-left: 210px;
+ }
+ .day{
+    height: 30px;
+    width: 68px;
+    font-size: 15px;
+ }
+ .datepara{
+    font-size: 15px;
+    margin-left: 1px;
+    color: #2d2dac;
+    text-decoration: none;
+}
+ .app{
+    margin-left: 210px;
+ }
+ .justtext{
+    margin-left: 213px;
+    font-size: 10px;
+    font-size: 11px;
+    color: #66667f;
+ }
+ .signup{
+    margin-left: 217px;
+    width: 151px;
+    height: 36px;
+    color: #fff;
+    background: #688d4f;
+    font-size: 16px;
+    border-radius: 6px;
+ }
+ .last{
+    margin-left: 212px;
+ }
